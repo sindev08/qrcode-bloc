@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094681962991",
+    "project_id": "qr-code-bloc-827a3",
+    "storage_bucket": "qr-code-bloc-827a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094681962991:android:2b097cd85401478f61ae1a",
+        "android_client_info": {
+          "package_name": "com.example.qrcode_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZSVxfpz1ANOPfFVA4W-J0g2XDZhyeB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
